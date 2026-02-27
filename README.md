@@ -2,6 +2,10 @@
 
 VRCVidFix fixes most **"video failed to load"** issues in VRChat by replacing VRChat's `yt-dlp.exe` with a safe proxy.
 
+## Download
+
+- Direct download: https://github.com/TheArmagan/vrcvidfix/releases/download/v0.1.0/vrcvidfix.exe
+
 
 ## How it works (simple)
 
@@ -45,7 +49,11 @@ They are stored in:
 
 `C:\Users\<you>\.vrcvidfix\vrcvidfix-debug.log`
 
+## Support
+
+- Discord support server: https://discord.gg/spfmB7S78n
+
 ## Credits
 
 Created by Armagan  
-GitHub: https://github.com/TheArmgan/vrcvidfix
+GitHub: https://github.com/TheArmagan/vrcvidfix
